@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Final Project</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="disclaimer">
+        Basic first aid refers to the initial process of assessing and addressing the needs of
+        someone who has been injured or is in physiological distress due to choking, a heart
+        attack, allergic reactions, drugs or other medical emergencies.\n\n Basic first aid allows you to
+        quickly determine a person\'s physical condition and the correct course of treatment.\n\n You
+        should always seek professional medical help as soon as you are able, but following
+        correct first aid procedures can be the difference between life and death.\n\n Follow my entire
+        tutorial at your own risk or if you have no alternative STILL AT YOUR OWN RISK.
+    </string>
+
+    <string name="check_surrounding">
+        •	Evaluate the situation. \n\n
+        •	Gather as much information as possible. \n\n
+        •	try and figure out the cuase of injury. \n\n
+        </string>
+
+    <string name="call_help">
+        •	Call authorities or emergency services immediately if you believe someone to be seriously injured.\n\n
+        •	Do not leave the victim alone.\n
+    </string>
+
+    <string name="care_for_person">
+        •	stay calm.\n\n
+        •	let them know help is on the way.\n\n
+        •	positive reinforcement.\n\n
+        </string>
+
+    <string name="steps_to_take_if_the_person_is_unconscious">
+        •	Determine responsiveness and Check for breathing and a pulse.\n\n
+        •	look\n\n
+        •	listen\n\n
+        •	feel\n\n
+        </string>
+
+    <string name="not_to_do">
+       •	Do not feed or hydrate an unconscious person. This could cause choking and possible asphyxiation.\n\n
+    •	Do not leave the person alone. Unless you absolutely need to signal or call for help, stay with the person at all times.\n\n
+    •	Do not prop up an unconscious person\'s head with a pillow.\n\n
+    •	Do not slap or splash with water an unconscious person\'s face. These are movie gimmicks.\n\n
+    •	Do not waste time posting the incident on any social media\n\n
+    •	Do not attempt to take a selfie with the victim.\n\n
+    •	Do not record the incident for personal viewing.\n\n
+        </string>
+
+    <string name="title_surroundings">Check the surroundings</string>
+    <string name="title_help">Call for help</string>
+    <string name="title_care">Care for the person</string>
+    <string name="title_unconscious">Steps to take if the person is unconsious</string>
+    <string name="title_not_to_do">What not to do</string>
+    <string name="title_disclaimer">Disclaimer</string>
+
+    <string name="title_activity_fullscreen">Welcome</string>
+    <string name="dummy_button">show help</string>
+    <string name="dummy_content">In case of Emergency</string>
+</resources>
